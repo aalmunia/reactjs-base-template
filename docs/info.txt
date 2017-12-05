@@ -1,0 +1,7 @@
+App ReactJS creada a partir de la información obtenida en el siguiente tutorial:
+
+https://medium.com/netscape/setting-up-a-react-project-from-scratch-d62f38ab6d97
+
+También usamos este tutorial para utilizar Redux y React Router:
+
+http://manojsinghnegi.com/blog/2017/09/03/Implementing-redux-and-react-router-v4-in-your-react-app/

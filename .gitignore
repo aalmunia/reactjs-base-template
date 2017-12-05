@@ -1,0 +1,12 @@
+# Módulos de node no entran en repo
+node_modules
+
+# Directorios de deployment de la app
+public
+dist
+
+# Fichero de Mac en caso de que exista
+.DS_Store
+
+# Compilados en caso de que existan
+build/Release
